@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<classpath>
+  <source-attachment entry="C:/Users/TUF/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" runtime-id="App Engine Standard Runtime" source-attachment-path="C:/Users/TUF/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar">
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.repository" value="central"/>
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.groupid" value="javax.servlet"/>
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.artifactId" value="javax.servlet-api"/>
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.type" value="jar"/>
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.version" value="3.1.0"/>
+    <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/TUF/.m2/repository/javax/servlet/jsp/javax.servlet.jsp-api/2.3.0/javax.servlet.jsp-api-2.3.0.jar" runtime-id="App Engine Standard Runtime" source-attachment-path="C:/Users/TUF/.m2/repository/javax/servlet/jsp/javax.servlet.jsp-api/2.3.0/javax.servlet.jsp-api-2.3.0-sources.jar">
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.repository" value="central"/>
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.groupid" value="javax.servlet.jsp"/>
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.artifactId" value="javax.servlet.jsp-api"/>
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.type" value="jar"/>
+    <attribute name="com.google.cloud.tools.eclipse.appengine.libraries.version" value="2.3.0"/>
+    <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+  </source-attachment>
+</classpath>
